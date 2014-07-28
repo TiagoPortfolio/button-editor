@@ -1,4 +1,4 @@
-buttoneditor
+button editor
 ============
 
 This is a button editor that I have been working for quite a while.
